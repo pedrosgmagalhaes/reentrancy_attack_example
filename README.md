@@ -2,6 +2,10 @@
 
 This project is a simple demonstration of a reentrancy attack in Solidity, using Hardhat for testing. The example consists of two contracts: `VulnerableBank` and `Attacker`.
 
+## Video: Portuguese Content
+Check [here](https://youtu.be/JhFTQwDflOs/).
+https://youtu.be/JhFTQwDflOs
+
 ## Credits
 
 This tutorial was created by Pedro Magalhães.
